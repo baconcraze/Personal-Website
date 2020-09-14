@@ -1,13 +1,16 @@
-## Welcome to Jonathan Bousquet's Personal Webpage
-# Feel free to look around
+# Welcome to Jonathan Bousquet's Personal Webpage
+## Feel free to look around
 
-You can use the [editor on GitHub](https://github.com/baconcraze/Personal-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website is inteneded to cataloge and archive my past,current, and future projects, these projects may vary greatly from mechanical to software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project List
 
-### Markdown
+Current:
+1. Ender 3 IDEX conversion
+    Details: I am designing and constructing a Independent dual extrusion conversion for an Ender 3, I am trying to construct the printer from mostly 3d printed and off the         shelf parts to reduce cost and make the design easy to build
+    
+Completed:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
